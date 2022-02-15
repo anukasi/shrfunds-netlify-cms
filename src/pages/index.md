@@ -3,7 +3,7 @@ templateKey: index-page
 title: Make your funds work for you
 image: /img/home-jumbotron.jpg
 heading: My name is Shruthi.
-subheading: Support sustainable farming while enjoying a cup
+subheading: Freshly Pressed Articles at your fingertips.
 mainpitch:
   title: Why Kaldi
   description: >
