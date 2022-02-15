@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Make your funds work for you
 image: /img/home-jumbotron.jpg
 heading: My name is Shruthi.
 subheading: Support sustainable farming while enjoying a cup
