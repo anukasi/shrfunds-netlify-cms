@@ -6,7 +6,7 @@ description: Spotify is one of the well known brands which revolutionized the
   music streaming industry. The growth in the subscribers and most active
   users(MAU) are huge in the last 4 years.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/spotify.jpeg
 tags:
   - flavor
   - tasting
