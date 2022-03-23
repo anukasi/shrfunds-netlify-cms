@@ -1,29 +1,68 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Alternative Investments
+date: 2022-03-23T20:51:51.033Z
+description: >+
+  Real estate is a form of an alternative investment.Real estate must be
+  actively managed. In this article we will see the various forms of Real estate
+  and why we need to invest in the same. This is a part of CFA level 2 Study.
+
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
-tags:
-  - brewing
-  - chemex
+featuredimage: /img/apple-touch-icon.png
+tags: []
 ---
-![chemex](/img/chemex.jpg)
+![chemex]()
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Real estate investment can be in either ***Private Market*** or ***Public Market*** 
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Four basic forms of Real estate investments.
 
-## The little secrets of Chemex brewing
+> ##### **Private Market:**
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+*  Direct Investments.
+* Commingled Real estate funds(**CREF**)
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+> ##### **Public Market:**
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+* Ownership in Real Estate Investment Trust (**REIT**) and Real Estate Operating Company(**REOC**).
+* Mortgage Backed Securities.(**MBC**).
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+###### Characteristics of Real estate
+
+* Heterogeneity [*Unique in nature*]
+* High Unit Value.
+* Active Management.
+* High Transaction Costs.
+* Depreciation and Desirability
+* Cost and availability of debt capital.
+* Lack of liquidity.
+* Difficulty in determining the price.
+
+Real estate Properties can be Residential and Non-Residential\[ Multifamily, restaurants ,offices,  and others like Timber land and farmlands]. In general income producing property is considered as commercial.
+
+> ##### Reasons to Invest in Real estate
+
+* Current Income : Earning income from rents after expenses.
+* Capital appreciation
+* Inflation hedge
+* Diversification
+* Tax benefits
+
+> ##### **Risks Involved**
+
+Now let's discuss about the risks involved with the real estate in our portfolio.
+
+* Business conditions.
+* New property lead time.
+* Cost and availability of capital.
+* Unexpected Inflation.
+* Demographic factors.
+* Lack of liquidity.
+* Environmental issues.
+* Availability of information.
+* Management expertise
+* Leverage--Use of debt can be measured by LTV Ratio. 
+
+               `LTV=Loan/Value.`  
+
+     Higher LTV value means Higher leverage and risk
