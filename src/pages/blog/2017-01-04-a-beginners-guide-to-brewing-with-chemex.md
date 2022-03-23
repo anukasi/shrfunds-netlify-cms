@@ -69,4 +69,4 @@ Now let's discuss about the risks involved with the real estate in our portfolio
 
 ### Conclusion
 
- <p>In conclusion, the role of real estate in portfolio is
+In conclusion, the role of real estate in a portfolio is to provide diversification. The risk and return profile of real estate as an asset class is usually between stocks and bonds. 
