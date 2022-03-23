@@ -17,17 +17,17 @@ Real estate investment can be in either ***Private Market*** or ***Public Market
 
 Four basic forms of Real estate investments.
 
-> ##### **Private Market:**
+### Private Market:
 
 * Direct Investments.
 * Commingled Real estate funds(**CREF**)
 
-> ##### **Public Market:**
+### Public Market:
 
 * Ownership in Real Estate Investment Trust (**REIT**) and Real Estate Operating Company(**REOC**).
 * Mortgage Backed Securities.(**MBC**).
 
-###### Characteristics of Real estate
+### Characteristics of Real estate
 
 * Heterogeneity [*Unique in nature*]
 * High Unit Value.
@@ -40,7 +40,7 @@ Four basic forms of Real estate investments.
 
 Real estate Properties can be Residential and Non-Residential\[ Multifamily, restaurants ,offices,  and others like Timber land and farmlands]. In general income producing property is considered as commercial.
 
-> ##### Reasons to Invest in Real estate
+### Reasons to Invest in Real estate
 
 * Current Income : Earning income from rents after expenses.
 * Capital appreciation
@@ -48,7 +48,7 @@ Real estate Properties can be Residential and Non-Residential\[ Multifamily, res
 * Diversification
 * Tax benefits
 
-> ##### **Risks Involved**
+### Risks Involved
 
 Now let's discuss about the risks involved with the real estate in our portfolio.
 
@@ -62,13 +62,11 @@ Now let's discuss about the risks involved with the real estate in our portfolio
 * Availability of information.
 * Management expertise
 * Leverage--Use of debt can be measured by LTV Ratio. 
-
-  ```
-           `LTV=Loan/Value.`  
-  ```
+    
+    `LTV=Loan/Value.`
 
      Higher LTV value means Higher leverage and risk
 
-> ##### Conclusion
+### Conclusion
 
  <p>In conclusion, the role of real estate in portfolio is
