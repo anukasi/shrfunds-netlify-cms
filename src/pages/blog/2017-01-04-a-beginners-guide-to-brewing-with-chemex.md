@@ -8,7 +8,7 @@ description: >+
   and why we need to invest in the same. This is a part of CFA level 2 Study.
 
 featuredpost: false
-featuredimage: /img/apple-touch-icon.png
+featuredimage: /img/precondo-ca-qhdfm084rnk-unsplash.jpg
 tags: []
 ---
 ![chemex]()
