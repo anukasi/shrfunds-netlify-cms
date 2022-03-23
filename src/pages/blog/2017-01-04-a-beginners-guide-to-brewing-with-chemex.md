@@ -11,7 +11,7 @@ featuredpost: false
 featuredimage: /img/precondo-ca-qhdfm084rnk-unsplash.jpg
 tags: []
 ---
-![chemex]()
+
 
 Real estate investment can be in either ***Private Market*** or ***Public Market*** 
 
