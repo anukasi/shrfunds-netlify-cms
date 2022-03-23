@@ -19,7 +19,7 @@ Four basic forms of Real estate investments.
 
 > ##### **Private Market:**
 
-*  Direct Investments.
+* Direct Investments.
 * Commingled Real estate funds(**CREF**)
 
 > ##### **Public Market:**
@@ -63,6 +63,12 @@ Now let's discuss about the risks involved with the real estate in our portfolio
 * Management expertise
 * Leverage--Use of debt can be measured by LTV Ratio. 
 
-               `LTV=Loan/Value.`  
+  ```
+           `LTV=Loan/Value.`  
+  ```
 
      Higher LTV value means Higher leverage and risk
+
+> ##### Conclusion
+
+ <p>In conclusion, the role of real estate in portfolio is
