@@ -7,7 +7,7 @@ subheading: Freshly Pressed Articles at your fingertips.
 mainpitch:
   title: Fund Objective
   description: "                         "
-description: The main motive of this site is to share knowledge and provide
+description: The main motto of this site is to share knowledge and provide
   meaningful financial insights.
 intro:
   blurbs: []
