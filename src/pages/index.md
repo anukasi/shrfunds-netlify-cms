@@ -8,7 +8,7 @@ mainpitch:
   title: " <br>"
   description: |
     asa
-description: "  <br>"
+description: "            "
 intro:
   blurbs:
     - image: /img/coffee.png
