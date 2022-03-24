@@ -7,7 +7,7 @@ description: >+
   actively managed. In this article we will see the various forms of Real estate
   and why we need to invest in the same. This is a part of CFA level 2 Study.
 
-featuredpost: false
+featuredpost: true
 featuredimage: /img/precondo-ca-qhdfm084rnk-unsplash.jpg
 tags: []
 ---
