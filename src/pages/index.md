@@ -5,9 +5,10 @@ image: /img/home-jumbotron.jpg
 heading: "                        "
 subheading: Freshly Pressed Articles at your fingertips.
 mainpitch:
-  title: "                      "
-  description: "                      "
-description: "            "
+  title: Fund Objective
+  description: "                         "
+description: The main motive of this site is to share knowledge and provide
+  meaningful financial insights.
 intro:
   blurbs: []
   heading: "                     "
