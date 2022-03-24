@@ -6,8 +6,7 @@ heading: My name is Shruthi.
 subheading: Freshly Pressed Articles at your fingertips.
 mainpitch:
   title: "                      "
-  description: |
-    asa
+  description: "                      "
 description: "            "
 intro:
   blurbs:
