@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: My name is Shruthi.
 subheading: Freshly Pressed Articles at your fingertips.
 mainpitch:
-  title: " <br>"
+  title: "                      "
   description: |
     asa
 description: "            "
